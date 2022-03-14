@@ -42,11 +42,4 @@
      * [System](https://github.com/stepin654321/MiniProject_Template/wiki/Windows_Setup)
      * [HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
      * Project
-      * Build - windows and Linux 
-      * Unit testing
-      * Analysis
-      * Code Quality - online Tools
-   * Practice
-     * Certificates
-     * [System_setup](https://github.com/stepin654321/MiniProject_Template/wiki/Windows_Setup)
     
