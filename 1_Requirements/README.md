@@ -1,42 +1,18 @@
-# MiniProject
-* Individual
-* C Programing
-* To apply the learning
+# LIBRARY MANAGEMENT SYSTEM
 
-# What it must contain
-* Folder structure must be as per https://github.com/stepin654321/MiniProject_Template/wiki#software-tools-for-c-programming
-* 100 lines of code , Excluding printf and scanf
-  * Functions
-  * Pointers
-  * Unit testing
-  * Multifile Programing( .c files, .h files and/or Library files)
-  * Makefile based compilation for Windows and Linux
-  * Code Documentation-Doxygen
- * System Development Life Cycle
-   * Requirements for your project
-     * what, Why, When, Who, How
-     * Analysis Strength, Weakness, Oppurtunity, Threats 
-     * High Level (feature) and low Level requirements
-* Design
-  * Structural
-  * Behavioural
- * Implement
-   * c Program based implementation
- * Test plan and Outcome
-   * How is the feature tested/verified - steps for each Requirement captured (How is it implemented)
-   * Once Implemented, Test and Capture the outcome
- * Development tools
-   * Build tools - gcc
-   * Makefiles
-   * Analysis
-     * Static - Before code execution - cppcheck
-     * Dynamic - During execution - Valgrind on Linux or Dr.Memory on windos
-  * CI/CD -  Continuous  Intergration and Continuous Devloyment
-    * Github - Workflows
-      * Build - windows and Linux
-      * Unit testing
-      * Analysis
-      * code Quality - Online Tools
+
+# REQUIREMENTS
+## Introduction
+
+Library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library     manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
+  
+The project titled Library Management System is Library Management software for monitoring and controlling the transactions in a library. The project “Library Management System” is developed in C, which mainly focuses on basic operations in a library like enter book name,enter author name, 
+  
+  
+This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information about the library. We can enter the record of new books and retrieve the details of books available in the library. We can issue the books to the students and maintain their records and can also check how many books are issued and stock available in the library. In this project we can maintain the late fine of students who returns the issued books after the due date.
+
+## Features
+* 
    * Practice
      * Certificates
      * [System_Setup](https://github.com/stepin654321/MiniProject_Template/wiki/Windows_Setup)
