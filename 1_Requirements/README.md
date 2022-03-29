@@ -57,7 +57,6 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 * risk of computer virus
 
 ## HIGH LEVEL REQUIREMENTS:
-RID	DESCRIPTION	STATUS
 
 [HLR1	C LANGUAGE	IMPLEMENTED]
 
@@ -69,9 +68,21 @@ RID	DESCRIPTION	STATUS
 
 [HLR5	RAM 4GB	  IMPLEMENTED]
 
+## LOW LEVEL REQUIREMENTS:
+
+[LLR1	ADD BOOKS	IMPLEMENTED]
+
+[LLR2	DELETE BOOKS	IMPLEMENTED]
+
+[LLR3	SEARCH BOOKS	IMPLEMENTED]
+
+[LLR4	ISSUE BOOKS	IMPLEMENTED]
+
+[LLR5	VIEW BOOKS	IMPLEMENTED]
 
 
-     ## practices
+     ## Practice
+     
      * Certificates
      * [System_Setup](https://github.com/stepin654321/MiniProject_Template/wiki/Windows_Setup)
      * [HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
