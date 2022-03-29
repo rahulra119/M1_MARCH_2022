@@ -70,7 +70,7 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 
 ## LOW LEVEL REQUIREMENTS:
 
-[LLR1	ADD BOOKS	IMPLEMENTED]
+[LLR1	 ADD BOOKS	IMPLEMENTED]
 
 [LLR2	DELETE BOOKS	IMPLEMENTED]
 
@@ -79,7 +79,6 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 [LLR4	ISSUE BOOKS	IMPLEMENTED]
 
 [LLR5	VIEW BOOKS	IMPLEMENTED]
-* 
 
 
      ## Practice
