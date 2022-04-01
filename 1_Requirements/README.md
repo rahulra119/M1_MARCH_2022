@@ -1,52 +1,42 @@
-# LIBRARY MANAGEMENT SYSTEM
+# Voting Machine
 
 
 # REQUIREMENTS
 ## Introduction
 
-Library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library     manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
-  
-The project titled Library Management System is Library Management software for monitoring and controlling the transactions in a library. The project “Library Management System” is developed in C, which mainly focuses on basic operations in a library like adding new books, and updating new information, searching books and members and return books.
-  
-  
-This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information about the library. We can enter the record of new books and retrieve the details of books available in the library. We can issue the books to the students and maintain their records and can also check how many books are issued and stock available in the library. In this project we can maintain the late fine of students who returns the issued books after the due date.
+* In this project, we make a voting machine in which we have 4 different option to vote each user vote one time and after all the user gives their vote we will
+conclude the result and store in our file and we have a full-fledged file in which we store a list of winner party for every year.
 
 ## Features
-* adding new books
-* updating new information
-* searching books and members
-* return books
+* Admin Login ( username and password )
+* Candidate information
+* User Voting 
+* Exit
 
 ## Objective
-* To build a monitoring system that is able to monitor and manage all library operations efficiently.
-* To build a system that can receive input and generate automatically output in easy way and short time.
-* Give an opportunity to librarians to reduce mistakes that always happen during manual method.
-* To store properly the library items in order to maintain their security.
-* To enter and preserve details of the various issues and keep a track on their returns.
+* This Project main aim is to provide safe and secure voting system environment, where admin can allow the user to vote, and admin declare a result.
 
 # W & H
 ## Who
-* This Library Management System is an application is used by all the students, and staff who are having id's.
+* Voting System we can give a user a safe and good Voting environment without any scam in count of vote.
 
 
 ## What 
-* Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates.
+* Project is people to vote and select their Leader
 
 
 ## When
-* his Library Management System is very useful when there are large no of readers visit library to return, renewal, or take books. It is very tedious to enter the records manually so here this project come into handy.
+* Always there is a need of Election in Democracy System, It has a huge scope.
 
 ## Where
-* The Library management system is nowadays essential for schools, colleges, private libraries, and other organizations. They can use this software as the purpose of books issuing and returning for renewal.
+* Project may be used colleges / schools to select Class Representative or Leader to college
 
 ## How
-* This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
+* This project is implemented to do the voting in viting machine
 
 ## Strengths:
 * Simple & easy to use
 * secure & reliable
-* mobile access
-* library engagement
 
 ## Weakness
 * The data stored is prone to cyber hacks
@@ -69,15 +59,14 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 
 ## LOW LEVEL REQUIREMENTS:
 
-[LLR1	 ADD BOOKS	IMPLEMENTED]
+[LLR1	 Login	IMPLEMENTED]
 
-[LLR2	DELETE BOOKS	IMPLEMENTED]
+[LLR2	Candidate information	IMPLEMENTED]
 
-[LLR3	SEARCH BOOKS	IMPLEMENTED]
+[LLR3	User Voting	IMPLEMENTED]
 
-[LLR4	ISSUE BOOKS	IMPLEMENTED]
+[LLR4	Exit	IMPLEMENTED]
 
-[LLR5	VIEW BOOKS	IMPLEMENTED]
 
 
      ## Practice
