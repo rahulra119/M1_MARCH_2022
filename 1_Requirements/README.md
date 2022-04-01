@@ -42,7 +42,6 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 ## How
 * This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
 
-# Swot Analysis:
 ## Strengths:
 * Simple & easy to use
 * secure & reliable
