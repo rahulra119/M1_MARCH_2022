@@ -2,3 +2,4 @@
 Naming convention: "M1_ProjectGoal"
 
 ![code_quality_score](https://api.codiga.io/project/32411/score/svg)
+![quality_grade](https://api.codiga.io/project/32411/status/svg)
